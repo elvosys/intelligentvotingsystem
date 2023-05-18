@@ -12,12 +12,11 @@ The Electronic Voting System by ElvoSys is a secure and efficient way to conduct
 - Role-based access control for administrators
 - Configurable settings for each election
 
-##Technologies Used
+## Technologies Used
 - Programming Language: Python
 - Framework: Flask
-- Database: PostgreSQL
-- Frontend: HTML, CSS, JavaScript
-- Cryptography: SHA-256, RSA
+- Database: SQLAlchemy
+- Frontend: HTML, CSS, JavaScript, Bootstrap
 
 ## Installation
 
