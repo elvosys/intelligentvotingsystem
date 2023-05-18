@@ -39,7 +39,7 @@ python run.py
 ```
 5. Open a web browser and visit http://localhost:5000 to access the Electronic Voting System.
 
-##Usage
+## Usage
 Upon accessing the system, you will be prompted to log in or create a new account.
 
 If you are an administrator, you can create a new ballot and configure its settings.
@@ -52,13 +52,13 @@ After registration, voters can cast their votes.
 
 The administrator can view the real-time voting results and generate the final results when the voting period ends.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
 
-##License
+## License
 The Electronic Voting System by ElvoSys is released under the MIT License.
 
-##Contact
+## Contact
 For any inquiries, please contact the ElvoSys team at contact@elvosys.com.
 
 <b>Note:</b> This is a simplified example of a readme file for an electronic voting system. The actual implementation may require additional components, such as encryption, advanced security measures, and more detailed instructions for setup and usage.
